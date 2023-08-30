@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SupplyChainConsole.iml" filepath="$PROJECT_DIR$/.idea/SupplyChainConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SupplyChainConsoleBased/SupplyChainConsoleBased.iml" filepath="$PROJECT_DIR$/SupplyChainConsoleBased/SupplyChainConsoleBased.iml" />
+    </modules>
+  </component>
+</project>
